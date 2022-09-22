@@ -2,16 +2,21 @@
   margin-top: 85px;
 }
 
-.header {
+.header__logo {
+  margin-right: 318px;
+}
+
+.header__wrapper {
   justify-content: space-between;
-  align-items: center;
+  width: 100%;
 }
 
 .header__menu {
-  min-width: 700px;
   justify-content: space-between;
+  align-items: center;
+  width: 653px;
   font-size: 25px;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .header__button {
