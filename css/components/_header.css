@@ -1,0 +1,24 @@
+.header-top-distance {
+  margin-top: 85px;
+}
+
+.header {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__menu {
+  min-width: 700px;
+  justify-content: space-between;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.header__button {
+  color: var(--white-color);
+  font-size: 25px;
+  background-color: #58a9a5;
+  border-radius: 15px;
+  width: 271px;
+  height: 80px;
+}
