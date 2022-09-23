@@ -1,0 +1,38 @@
+.block-1 {
+  position: relative;
+}
+
+.block-1__title {
+  font-size: 70px;
+  font-weight: 800;
+  line-height: 106px;
+  width: 45%;
+  margin-bottom: 48px;
+}
+
+.block-1__descr {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 45px;
+  width: 46%;
+  margin-bottom: 50px;
+}
+
+.block-1__link {
+  display: block;
+  width: 271px;
+  height: 80px;
+  border-radius: 20px 20px 20px 0px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 80px;
+  color: var(--white-color);
+  background-color: #58a9a5;
+}
+
+.block-1__image {
+  position: absolute;
+  top: -48px;
+  left: 844px;
+}
