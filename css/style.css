@@ -6,4 +6,5 @@
 @import "_overall.css";
 
 /* components imports */
-@import "/css/components/_header.css";
+
+@import "components/_header.css";
