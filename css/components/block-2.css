@@ -28,7 +28,7 @@
 }
 
 .widget__left-section {
-  background-image: url("/img/block-2__widget-image.png");
+  background-image: url("../../img/block-2__widget-image.png");
   background-position: center center;
   background-size: cover;
   width: 1063px;
@@ -69,7 +69,7 @@
 /* || Image */
 
 .block-2__image {
-  background-image: url("/img/block-2__image.png");
+  background-image: url("../../img/block-2__image.png");
   background-position: center center;
   background-size: cover;
   width: 642px;
