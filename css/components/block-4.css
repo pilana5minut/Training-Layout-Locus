@@ -1,0 +1,13 @@
+.block-4__title {
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 105px;
+  text-align: center;
+  color: var(--black-color);
+  margin-bottom: 23px;
+}
+
+.vendor-stack {
+  justify-content: space-between;
+  padding: 0 185px;
+}

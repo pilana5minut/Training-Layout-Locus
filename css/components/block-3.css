@@ -24,6 +24,7 @@
 
 .card-stack {
   justify-content: space-between;
+  margin-bottom: 205px;
 }
 
 .card-stack__card {
