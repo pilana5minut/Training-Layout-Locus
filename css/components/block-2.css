@@ -28,7 +28,7 @@
   margin-bottom: 150px;
 }
 
-.widget__left-section {
+.block-2__widget-left-section {
   background-image: url("../../img/block-2__widget-image.png");
   background-position: center center;
   background-size: cover;
@@ -42,14 +42,14 @@
   left: 1000px;
 }
 
-.widget__right-section {
+.block-2__widget-right-section {
   background-color: #ccf0e6;
   width: 549px;
   height: 100%;
   padding: 69px 116px 30px 116px;
 }
 
-.widget__text {
+.block-2__widget-text {
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
@@ -58,7 +58,7 @@
   margin-bottom: 40px;
 }
 
-.widget__phrase {
+.block-2__widget-phrase {
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
