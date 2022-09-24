@@ -12,6 +12,7 @@
   line-height: 45px;
   text-align: center;
   margin-bottom: 72px;
+  color: var(--darkgray-color);
 }
 
 /* || widget */
@@ -53,7 +54,7 @@
   font-size: 20px;
   line-height: 30px;
   letter-spacing: 1.3px;
-  color: #486958;
+  color: var(--darkgreen-color);
   margin-bottom: 40px;
 }
 
@@ -94,5 +95,7 @@
   font-weight: 500;
   font-size: 30px;
   line-height: 45px;
+  color: var(--darkgreen-color);
   width: 630px;
+  margin-bottom: 350px;
 }

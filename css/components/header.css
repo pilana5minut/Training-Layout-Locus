@@ -21,6 +21,7 @@
   width: 653px;
   font-size: 25px;
   font-weight: 400;
+  color: var(--darkgray-color);
 }
 
 .header__button {
