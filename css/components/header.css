@@ -27,7 +27,7 @@
 .header__button {
   color: var(--white-color);
   font-size: 25px;
-  background-color: #58a9a5;
+  background-color: var(--turquoise-color);
   border-radius: 15px;
   width: 271px;
   height: 80px;
